@@ -1,2 +1,2 @@
 # jFood
- Object Oriented Programming Lab with JAVA
+API Services for jFood using Springboot
